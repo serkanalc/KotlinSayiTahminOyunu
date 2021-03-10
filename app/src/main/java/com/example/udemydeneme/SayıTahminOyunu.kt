@@ -11,7 +11,7 @@ fun main(){
 
     while(true){
         if (hak==0){
-            print("Deneme Hakkınız Bitti :(")
+            print("Deneme Hakkınız Bitti :( \nRastgele sayı -> $rastgeleSayı")
             break
         }
         else {
